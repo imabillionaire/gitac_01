@@ -6,6 +6,6 @@
 (backtick) : 박스 표시
 ```
 
-# github
+# Github
 
 # 클라이언트 서버 시스템
